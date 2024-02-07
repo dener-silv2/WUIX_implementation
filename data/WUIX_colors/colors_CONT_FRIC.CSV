@@ -1,0 +1,26 @@
+Index;Ref;R;G;B;Legend
+1;IA;255;255;255;Void
+2;IB;178;255;178;Sparse vegetation
+3;IC;0;255;0;Medium vegetation
+4;ID;0;168;0;Dense vegetation
+5;IE;0;84;0;Very dense vegetation
+6;IIA;255;255;178;Isolated (no veget.)
+7;IIB;255;255;128;Isolated with sparse veget.
+8;IIC;255;255;0;Isolated with medium veget.
+9;IID;168;168;0;Isolated with dense veget.
+10;IIE;84;84;0;Isolated with very dense veget.
+11;IIIA;255;217;178;Scattered  (no veget.)
+12;IIIB;255;191;128;Scattered with sparse veget.
+13;IIIC;255;127;0;Scattered with medium veget.
+14;IIID;168;84;0;Scattered with dense veget.
+15;IIIE;84;42;0;Scattered with very dense veget.
+16;IVA;84;0;0;Mixed (no veget.)
+17;IVB;168;0;0;Mixed with sparse veget.
+18;IVC;255;0;0;Mixed with medium veget.
+19;IVD;255;128;128;Mixed with dense veget.
+20;IVE;255;178;178;Mixed with very dense veget.
+21;VA;84;0;84;Urban (no veget.)
+22;VB;168;0;168;Urban with sparse veget.
+23;VC;255;0;255;Urban with medium veget.
+24;VD;255;128;255;Urban with dense veget.
+25;VE;255;178;255;Urban with very dense veget.
