@@ -35,7 +35,7 @@ pip install -r .\scripts\requirements.txt
 
 ## The main script
 
-> [**wui_implementation.ipynb**](https://github.com/dener-silv2/WUIX_implementation/blob/main/script/wui_implementation.ipynb)
+> [**wui_implementation.ipynb**](scripts/wui_implementation.ipynb)
 
 
 ## Script Overview
