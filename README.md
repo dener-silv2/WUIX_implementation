@@ -4,7 +4,7 @@
 
 This repository contains a Python script used for the implementation of the WUIX (Wildland-Urban Interface Exposure) methodology.
 
-* This work is part of the WUIX index testing campaign, and was presented originally in the **article "TOFILL"**
+* This work is part of the WUIX index testing campaign, and was presented originally in the **article "in publication"**
 
 ## Usage
 
