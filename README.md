@@ -2,9 +2,9 @@
 
 ## Overview
 
-This repository contains a Python script used for the implementation of the WUIX (Wildland-Urban Interface Exposure) methodology.
+This repository contains a Python script to implement the WUIX (Wildland-Urban Interface Exposure) methodology.
 
-* This work is part of the WUIX index testing campaign, and was presented originally in the **article "in publication"**
+* This work is part of the WUIX index testing campaign and was presented originally in the **[Wildland-Urban Interface Fire Exposure of Rural Settlements: The case of Montesinho Natural Park](https://doi.org/10.1016/j.ijdrr.2024.104790)**
 
 ## Usage
 
